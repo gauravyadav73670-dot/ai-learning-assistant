@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "e7f08b80-0959-4887-801f-d5e64d938fb4",
+      "name": "Codex Test",
+      "email": "codex-test@example.com",
+      "salt": "a63b361be560eb20f370c78c0bf0d60f",
+      "passwordHash": "59e79d236abca5866acc2c78c8db616d166064d2bf5db28c5df2ab8aab7902067288efab274c782e4e2f11daaa04fd1a844f0d45861725d4f707d21db13ff645",
+      "createdAt": "2026-04-25T23:15:28.543Z"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "e7f08b80-0959-4887-801f-d5e64d938fb4",
+      "name": "Codex Test",
+      "email": "codex-test@example.com",
+      "salt": "a63b361be560eb20f370c78c0bf0d60f",
+      "passwordHash": "59e79d236abca5866acc2c78c8db616d166064d2bf5db28c5df2ab8aab7902067288efab274c782e4e2f11daaa04fd1a844f0d45861725d4f707d21db13ff645",
+      "createdAt": "2026-04-25T23:15:28.543Z"
+    },
+    {
+      "id": "d5da6a00-dffe-4453-8f25-c38f4736050d",
+      "name": "Gaurav Kumar",
+      "email": "gauravyadav73670@gmail.com",
+      "salt": "9cec89a4f70b2d3c7439ec037ed5d2d3",
+      "passwordHash": "5520c2fb5e16750886895886055abc17d30d126c45f63b23a1bce125e58d9d8861459f72012e9a62b8d4d90c692b2a4b71f53c38981b4516839afda00262ccbf",
+      "createdAt": "2026-04-25T23:30:01.345Z"
+    }
+  ]
+}
